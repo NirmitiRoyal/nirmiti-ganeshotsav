@@ -1,0 +1,3 @@
+git add receipts/9876543210.jpg
+git commit -m "Add receipt 9876543210"
+git push origin main
